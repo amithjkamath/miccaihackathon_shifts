@@ -1,0 +1,6 @@
+numpy
+matplotlib
+#torch
+monai[all]
+nilearn
+nibabel
